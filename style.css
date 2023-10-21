@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff; /* branco */
+}
+h1 {
+    color: #000000; /* preto */
+    text-align: center;
+    padding: 20px 0;
+    background-color: #800080; /* roxo */
+}
+h3 {
+    color: #000000; /* preto */
+    background-color: #ffc0cb; /* rosa */
+}
+p {
+    color: #000000; /* preto */
+}
+footer {
+    background-color: #800080; /* roxo */
+    color: #ffffff; /* branco */
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
